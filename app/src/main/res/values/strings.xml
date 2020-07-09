@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AlwaysCommunicated</string>
+
+    <string name="email_login_remember">email</string>
+    <string name="password_login_remember">password</string>
+
+    <string name="channel_id_message">Message</string>
+    <string name="channel_name_message">Message</string>
+    <string name="channel_description_message">Notifications of messages</string>
+</resources>

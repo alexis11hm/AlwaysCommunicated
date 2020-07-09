@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1051566521427",
+    "firebase_url": "https://alwayscommunicated.firebaseio.com",
+    "project_id": "alwayscommunicated",
+    "storage_bucket": "alwayscommunicated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051566521427:android:a9dda3de4a63187c0a5aa6",
+        "android_client_info": {
+          "package_name": "com.example.alwayscommunicated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051566521427-ng1fsqo4o3lh8dkgb85uc2rtgqstfqe3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alwayscommunicated",
+            "certificate_hash": "a5840fd0a63d8960cb97e358083f3e1c00567b06"
+          }
+        },
+        {
+          "client_id": "1051566521427-ikcp8ethr4oqi41ms6phib9rkn7ub92j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJRwl8ct4TXmz5o-h9SXpai85QslRJWGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051566521427-ikcp8ethr4oqi41ms6phib9rkn7ub92j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
